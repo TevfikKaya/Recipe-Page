@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+   
+    
 }
 
 
@@ -16,14 +18,22 @@ body {
     background-color: hsl(30, 54%, 90%);
 }
 
-
-
-
-img {
-    
-    
-
+.img {
+    background-image: url(image-omelette.jpeg);
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
+
+
+.container {
+    padding: 50px;
+    width: 100%;
+     
+}
+
+
 
 
 
@@ -38,7 +48,6 @@ tr td {
 
 .bottom-table table tr {
   display: flex;
-  gap: 500px;
   border-bottom: 0.5px solid rgb(124, 115, 115);
   
     
@@ -79,8 +88,8 @@ p {
     background-color:hsl(0, 0%, 100%) ;
     padding: 20px;
     border-radius: 15px;
-    line-height: 2em;
-    
+    display: flex;
+    flex-direction: column;
     
 }
 
