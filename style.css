@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+html,body {
+    height: 100%;
+}
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+
+
+
+
+img {
+    
+    
+
+}
+
+
+
+.bottom-table table {
+    width: 100%;
+}
+
+tr td {
+    width: 100%;
+    padding: 10px;
+}
+
+.bottom-table table tr {
+  display: flex;
+  gap: 500px;
+  border-bottom: 0.5px solid rgb(124, 115, 115);
+  
+    
+}
+
+
+.first-box {
+    background-color: hsl(330, 100%, 98%);
+    line-height: 2em;
+}
+
+
+
+h3 {
+    color: hsl(24, 5%, 18%);
+}
+
+h2 {
+    color: hsl(14, 45%, 36%);
+}
+
+
+p {
+    font-size: 16px;
+    font-family: Outfit;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+
+.main-box {
+    background-color:hsl(0, 0%, 100%) ;
+    padding: 20px;
+    border-radius: 15px;
+    line-height: 2em;
+    
+    
+}
+
+
+
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.outfit-uniquifier-400 {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.outfit-uniquifier-600 {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.outfit-uniquifier-700 {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+  
+
+
+.different {
+    color: hsl(10, 35%, 30%);
+    font-size: 1.2rem;
+    font-weight:500;
+}
+
+
+.different2 {
+
+    font-weight: 900;
+    color: hsl(10, 35%, 30%)
+    
+}
+
+
+
+.deneme {
+    display: flex;
+}
+
+
+ul , li {
+    font-family: Outfit;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
